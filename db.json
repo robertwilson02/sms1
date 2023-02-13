@@ -1,0 +1,34 @@
+{
+  "StuList": [
+    {
+      "id": 13,
+      "First_Name": "Et quia est totam i",
+      "Last_Name": "A quae est possimus",
+      "Location": "Aspernatur culpa ni",
+      "Email": "gywehah@mailinator.com",
+      "DOB": "1984-07-27",
+      "Education": "Iusto et qui et fugi",
+      "About": "Praesentium impeditj"
+    },
+    {
+      "First_Name": "Dolorum quae duis es",
+      "Last_Name": "Pariatur Ratione ut",
+      "Location": "Et labore consequunt",
+      "Email": "camahar@mailinator.com",
+      "DOB": "1973-07-10",
+      "Education": "Est quia illo ab re",
+      "About": "Excepturi dolor quia",
+      "id": 14
+    },
+    {
+      "id": 16,
+      "First_Name": "roshan",
+      "Last_Name": "Perspiciatis enim d",
+      "Location": "Excepturi iure conse",
+      "Email": "fixame@mailinator.com",
+      "DOB": "2018-02-23",
+      "Education": "Sed delectus repell",
+      "About": "Praesentium nulla cu"
+    }
+  ]
+}

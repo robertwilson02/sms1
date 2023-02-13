@@ -1,0 +1,18 @@
+.container-fluid
+{
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+.container-fluid .Cart-title h4{
+    color: black;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.table-responsive{
+     margin-top: 20px;
+}
+
